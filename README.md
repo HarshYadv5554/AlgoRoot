@@ -177,7 +177,15 @@ Error responses include a message explaining the error:
 
 ## Screenshots
 
-[Add screenshots of your application here]
+![Screenshot 2025-03-30 192732](https://github.com/user-attachments/assets/ce6018b2-1ea8-4238-80cc-1910e2841d86)
+
+![Screenshot 2025-03-30 192752](https://github.com/user-attachments/assets/796000ed-b3c2-4f42-84f2-0794cf833f1f)
+
+![Screenshot 2025-03-30 192814](https://github.com/user-attachments/assets/e3180f4a-a6f7-40cd-954d-0acac65b41be)
+
+
+
+
 
 ## Contributing
 
